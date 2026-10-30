@@ -1,4 +1,4 @@
-#*args: It accepts any number of positional arguments(non-keyword arguments)
+#*args: It accepts any number of positional arguments(non-keyword arguments).
 
 # def num(*args):
 #     return sum(args)
